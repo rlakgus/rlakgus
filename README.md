@@ -2,7 +2,7 @@
   <img src="old-peach-sad.svg" width="220" />
 </p>
 
-<h2 align="center">컴맹 할배가 개발 같은 걸 할 수 있을 리 없잖아, 무리무리!</h2>
+<h2 align="center">컴맹 할배가 개발할 수 있을 리 없잖아, 무리무리!</h2>
 <p align="center"><sub>(※무리가 아니었다?!)</sub></p>
 
 <p align="center">
